@@ -1,0 +1,1 @@
+All bundled wastewater and health-trend records are synthetic and intended only for software testing and demonstration.
